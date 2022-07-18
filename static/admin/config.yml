@@ -1,6 +1,7 @@
 backend:
-  name: git-gateway
+  name: github
   branch: master # Branch to update (optional; defaults to master)
+  repo: bridge-amarjith/netlify-kit-cms
 
 media_folder: static/img
 public_folder: /img
